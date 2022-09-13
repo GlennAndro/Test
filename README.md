@@ -10,7 +10,7 @@
 <body>
     <div><p class="hi">Hi!</p></div>
     <h1>I'm Glenn.</h1>
-    <div><p class="description">I am an accountant and a web dev wanna-be.</p></div>
+    <div><p class="description">I am an accountant and a wanna-be web developer.</p></div>
     <div class="nav">
       <ul>
         <li>Home</list>
